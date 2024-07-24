@@ -19,7 +19,7 @@ const projects = [
     title: "Federated Learning",
     description: "Prediction of Covid-19 CT Scan images by leveraging deep learning models.",
     date: "2022",
-    image: "/Images/fl.PNG",
+    image: "/Images/fl.png",
   },
   {
     title: "BF7 Variant real time analysis",
@@ -31,13 +31,13 @@ const projects = [
     title: "Dairy manager App",
     description:"One stop for all cattle owners to manage dairy production and expense",
     date: "2023",
-    image: "/Images/dairy.JPG",
+    image: "/Images/dairy.jpg",
   },
   {
     title: "Altery",
     description:"Public aid portal portal using Amazon Web Services(AWS) and React",
     date: "2024",
-    image: "/Images/aws.PNG",
+    image: "/Images/aws.png",
   },
 
 ]
@@ -47,13 +47,13 @@ const education =[
     title: "Master of Computer Science",
     description: "New Jersey Institute of Technology",
     date:"2023-2025",
-    image:"/Images/njit.PNG"
+    image:"/Images/njit.png"
   },
   {
     title: "Bachelor Of Technology in Computer Science",
     description: "Nirma University",
     date:"2019-2023",
-    image:"/Images/nirma.PNG"
+    image:"/Images/nirma.png"
   },
 ]
 
@@ -63,37 +63,37 @@ const experience =[
       title:"Software Engineer | Intern",
       description:"Kintsugi Global",
       date:"May-July 2024",
-      images:"/Images/kintsugi.JPEG"
+      images:"/Images/kintsugi.jpeg"
   },
   {
     title:"Teaching Assistant ",
     description:"NJIT",
     date:"Jan-May 2024",
-    images:"/Images/njit.PNG"
+    images:"/Images/njit.png"
   },
   {
     title:"Software Engineer",
     description:"Tech holding",
     date:"Jan-Dec 2023",
-    images:"/Images/TH.JPEG"
+    images:"/Images/TH.jpeg"
   },
   {
     title:"Software Engineer",
     description:"TM Solutech",
     date:"Jan-May 2022",
-    images:"/Images/tm.JPEG"
+    images:"/Images/tm.jpeg"
   },
   {
     title:"Software Intern | Android",
     description:"NullClass",
     date:"Dec-Jan 2022",
-    images:"/Images/nullclass.PNG"
+    images:"/Images/nullclass.png"
   },
   {
     title:"Computer Science Subject Expert",
     description:"Chegg",
     date:"Mar-Aug 2021",
-    images:"/Images/chegg.PNG"
+    images:"/Images/chegg.png"
   },
 ]
 
