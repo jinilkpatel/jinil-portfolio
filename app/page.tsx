@@ -25,7 +25,7 @@ const projects = [
     title: "BF7 Variant real time analysis",
     description: "A real time analysis of outspread of Covid and vaccination drives accross the globe",
     date: "2023",
-    image: "/analysis.JPG",
+    image: "/Images/analysis.jpg",
   },
   {
     title: "Dairy manager App",
