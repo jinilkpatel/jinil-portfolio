@@ -19,7 +19,7 @@ const projects = [
     title: "Federated Learning",
     description: "Prediction of Covid-19 CT Scan images by leveraging deep learning models.",
     date: "2022",
-    image: "/fl.PNG",
+    image: "/Images/fl.PNG",
   },
   {
     title: "BF7 Variant real time analysis",
@@ -31,13 +31,13 @@ const projects = [
     title: "Dairy manager App",
     description:"One stop for all cattle owners to manage dairy production and expense",
     date: "2023",
-    image: "/dairy.JPG",
+    image: "/Images/dairy.JPG",
   },
   {
     title: "Altery",
     description:"Public aid portal portal using Amazon Web Services(AWS) and React",
     date: "2024",
-    image: "/aws.PNG",
+    image: "/Images/aws.PNG",
   },
 
 ]
@@ -47,13 +47,13 @@ const education =[
     title: "Master of Computer Science",
     description: "New Jersey Institute of Technology",
     date:"2023-2025",
-    image:"/njit.PNG"
+    image:"/Images/njit.PNG"
   },
   {
     title: "Bachelor Of Technology in Computer Science",
     description: "Nirma University",
     date:"2019-2023",
-    image:"/nirma.PNG"
+    image:"/Images/nirma.PNG"
   },
 ]
 
@@ -63,37 +63,37 @@ const experience =[
       title:"Software Engineer | Intern",
       description:"Kintsugi Global",
       date:"May-July 2024",
-      images:"/kintsugi.JPEG"
+      images:"/Images/kintsugi.JPEG"
   },
   {
     title:"Teaching Assistant ",
     description:"NJIT",
     date:"Jan-May 2024",
-    images:"/njit.PNG"
+    images:"/Images/njit.PNG"
   },
   {
     title:"Software Engineer",
     description:"Tech holding",
     date:"Jan-Dec 2023",
-    images:"/TH.JPEG"
+    images:"/Images/TH.JPEG"
   },
   {
     title:"Software Engineer",
     description:"TM Solutech",
     date:"Jan-May 2022",
-    images:"/tm.JPEG"
+    images:"/Images/tm.JPEG"
   },
   {
     title:"Software Intern | Android",
     description:"NullClass",
     date:"Dec-Jan 2022",
-    images:"/nullclass.PNG"
+    images:"/Images/nullclass.PNG"
   },
   {
     title:"Computer Science Subject Expert",
     description:"Chegg",
     date:"Mar-Aug 2021",
-    images:"/chegg.PNG"
+    images:"/Images/chegg.PNG"
   },
 ]
 
