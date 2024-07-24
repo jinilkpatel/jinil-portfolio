@@ -189,7 +189,7 @@ export default function Home() {
 
         <div className="md:flex md:gap-x-10 items-center md:pt-28">
           <Image
-              src={"./images/jinil.JPG"} alt={"Jinil"}
+              src={"./jinil.JPG"} alt={"Jinil"}
               width={10000}
               height={10000}
               className="rounded-xl w-40 mt-4" 
