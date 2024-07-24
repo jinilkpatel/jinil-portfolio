@@ -2,7 +2,7 @@
 const nextConfig = {
     images:{
         domains:[
-            'api.microlink.io'
+            'https://jinil-portfolio-rho.vercel.app/'
         ]
     }
 
