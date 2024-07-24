@@ -206,7 +206,7 @@ export default function Home() {
               />
               </h1>
               <p className="text-muted-foreground text-lg md:pr-9">
-                I Like coding and learning more and more about new technologies. Here's my
+                I Like coding and learning more and more about new technologies. Here is my
                 <LinkPreview
                 url="https://www.linkedin.com/in/jinil-k-patel/"
                 className="font-bolf text-blue-500 underLine">
