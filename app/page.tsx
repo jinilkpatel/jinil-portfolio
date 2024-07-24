@@ -19,25 +19,25 @@ const projects = [
     title: "Federated Learning",
     description: "Prediction of Covid-19 CT Scan images by leveraging deep learning models.",
     date: "2022",
-    image: "/images/fl.png",
+    image: "./images/fl.png",
   },
   {
     title: "BF7 Variant real time analysis",
     description: "A real time analysis of outspread of Covid and vaccination drives accross the globe",
     date: "2023",
-    image: "/images/analysis.jpg",
+    image: "./images/analysis.jpg",
   },
   {
     title: "Dairy manager App",
     description:"One stop for all cattle owners to manage dairy production and expense",
     date: "2023",
-    image: "/images/dairy.jpg",
+    image: "./images/dairy.jpg",
   },
   {
     title: "Altery",
     description:"Public aid portal portal using Amazon Web Services(AWS) and React",
     date: "2024",
-    image: "/images/aws.png",
+    image: "//images/aws.png",
   },
 
 ]
@@ -47,13 +47,13 @@ const education =[
     title: "Master of Computer Science",
     description: "New Jersey Institute of Technology",
     date:"2023-2025",
-    image:"/images/njit.png"
+    image:"./images/njit.png"
   },
   {
     title: "Bachelor Of Technology in Computer Science",
     description: "Nirma University",
     date:"2019-2023",
-    image:"/images/nirma.png"
+    image:"./images/nirma.png"
   },
 ]
 
@@ -63,37 +63,37 @@ const experience =[
       title:"Software Engineer | Intern",
       description:"Kintsugi Global",
       date:"May-July 2024",
-      images:"/images/kintsugi.jpeg"
+      images:"./images/kintsugi.jpeg"
   },
   {
     title:"Teaching Assistant ",
     description:"NJIT",
     date:"Jan-May 2024",
-    images:"/images/njit.png"
+    images:"./images/njit.png"
   },
   {
     title:"Software Engineer",
     description:"Tech holding",
     date:"Jan-Dec 2023",
-    images:"/images/TH.jpeg"
+    images:"./images/TH.jpeg"
   },
   {
     title:"Software Engineer",
     description:"TM Solutech",
     date:"Jan-May 2022",
-    images:"/images/tm.jpeg"
+    images:"./images/tm.jpeg"
   },
   {
     title:"Software Intern | Android",
     description:"NullClass",
     date:"Dec-Jan 2022",
-    images:"/images/nullclass.png"
+    images:"./images/nullclass.png"
   },
   {
     title:"Computer Science Subject Expert",
     description:"Chegg",
     date:"Mar-Aug 2021",
-    images:"/images/chegg.png"
+    images:"./images/chegg.png"
   },
 ]
 
@@ -189,7 +189,7 @@ export default function Home() {
 
         <div className="md:flex md:gap-x-10 items-center md:pt-28">
           <Image
-              src={"/images/jinil.jpg"} alt={"Jinil"}
+              src={"./images/jinil.jpg"} alt={"Jinil"}
               width={10000}
               height={10000}
               className="rounded-xl w-40 mt-4" 
